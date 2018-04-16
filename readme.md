@@ -42,3 +42,5 @@ Description
 Reference: [penn treebank pos](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 
 Arquivos: [modelos pre-treinados](http://opennlp.sourceforge.net/models-1.5/)
+
+Helloworld: [Java jar](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27848011)
