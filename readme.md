@@ -40,3 +40,5 @@ Description
 36.	WRB	Wh-adverb
 
 Reference: [penn treebank pos](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
+
+Arquivos: [modelos pre-treinados}(http://opennlp.sourceforge.net/models-1.5/)
