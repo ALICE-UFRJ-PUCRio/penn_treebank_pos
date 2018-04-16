@@ -48,3 +48,5 @@ Helloworld: [Java jar](https://cwiki.apache.org/confluence/pages/viewpage.action
 Artigo: [NLP](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2016/046.pdf)
 
 Artigo: [NLP Ontologia](https://repositorio.ufscar.br/bitstream/handle/ufscar/8946/DissAMA.pdf?sequence=1&isAllowed=y)
+
+Slide: [NLP pratica](https://pt.slideshare.net/wcolen/minicurso-processamento-de-linguagens-naturais-pondo-em-prtica)
