@@ -46,3 +46,5 @@ Arquivos: [modelos pre-treinados](http://opennlp.sourceforge.net/models-1.5/)
 Helloworld: [Java jar](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27848011)
 
 Artigo: [NLP](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2016/046.pdf)
+
+Artigo: [NLP Ontologia](https://repositorio.ufscar.br/bitstream/handle/ufscar/8946/DissAMA.pdf?sequence=1&isAllowed=y)
